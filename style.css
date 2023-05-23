@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content_box {
+    background-color: lightgrey;
+    width: 400px;
+    height : 400px;
+    padding: 10px;
+    border-radius: 5%;
+    justify-content: center;
+    align-items: center;
+}
+
+#main_layout {
+    background-color: lightgreen;
+    text-align: center;
+    padding: 5px;
+}
+
+#title_box {
+    border: solid ;
+    margin: 10px;
+    background-color: lightgoldenrodyellow;
+}
